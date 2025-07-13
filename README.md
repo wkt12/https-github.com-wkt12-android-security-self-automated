@@ -1,5 +1,5 @@
-# https-github.com-wkt12-android-security-self-automated
-Android Security &amp; Defense System 
+android-security-self-automated
+Android Security & Defense System 
 
  <img width="1024" height="1024" alt="1000017888" src="https://github.com/user-attachments/assets/9e9fa79a-a6eb-4dc4-8514-239c868974ef" />
  
